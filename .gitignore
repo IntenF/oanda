@@ -109,3 +109,6 @@ venv.bak/
 
 #for remoteFTP
 .ftpconfig
+
+#for security
+config.txt
